@@ -41,3 +41,10 @@ git clone https://github.com/priynkaaaa/secure-vote-chain-clean.git
 cd Online\ E-Voting
 bun install
 bun run dev
+
+## 👩‍💻 Developer Notes
+
+This project was designed, customized, and deployed by **Priyanka Rathi**.
+The system architecture, UI flow, and deployment pipeline were manually
+configured and tested as part of an academic project on secure systems
+and blockchain applications.
