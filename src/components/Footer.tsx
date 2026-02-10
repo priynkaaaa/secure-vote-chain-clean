@@ -50,6 +50,9 @@ export const Footer = () => {
 
         <div className="border-t border-background/10 pt-8 text-center text-sm text-background/40">
           <p>© {new Date().getFullYear()} BlockVote. All rights reserved. Powered by Blockchain Technology.</p>
+          <p style={{ fontSize: "12px", opacity: 0.6, textAlign: "center", marginTop: "24px" }}>
+              Developed & deployed by Priyanka Rathi | B.Tech IT | 2026
+          </p>
         </div>
       </div>
     </footer>
